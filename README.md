@@ -49,7 +49,7 @@ The dataset provides the patients’ information. It includes over 4,000 records
 
 ## Approach:-
 ### Data preparation:
-•	Removed null values from teh dataset
+•	Removed null values from the dataset
 
 •	Removed duplicate entries
 
